@@ -1,0 +1,46 @@
+leftnav:
+- identifier: 1429dc93-7e66-2d06-f13f-ec95407426b0
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 6f1434d8-a964-1a95-c653-a7f298de436f
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 0ae1761c-e4ac-31c1-dfea-f0712ac55cdd
+  name: Readings
+  pageRef: /pages/readings
+  weight: 30
+- identifier: 5c605736-dcbf-95a3-d1eb-b329fd7f61f1
+  name: Lecture Slides
+  pageRef: /pages/lecture-slides
+  weight: 40
+- identifier: 003af624-a338-5994-85f7-a038c8194f88
+  name: Assignments
+  pageRef: /pages/assignments/
+  weight: 50
+- identifier: 20ec2382-74f8-748d-a9be-e2089806f486
+  name: Assignments - Short Paper 1
+  pageRef: /pages/assignments/assignments-short-paper-1
+  parent: 003af624-a338-5994-85f7-a038c8194f88
+  weight: 60
+- identifier: 06be34ba-2555-3987-c8b9-a2b6f0255644
+  name: Assignments - Short Paper 2
+  pageRef: /pages/assignments/assignments-short-paper-2
+  parent: 003af624-a338-5994-85f7-a038c8194f88
+  weight: 70
+- identifier: 4b4cebe3-7ee5-b2e9-4b48-36ca210bc6f3
+  name: Assignments - Short Paper 3
+  pageRef: /pages/assignments/assignments-short-paper-3
+  parent: 003af624-a338-5994-85f7-a038c8194f88
+  weight: 80
+- identifier: 6c4169e0-f917-4675-d82a-b3a2756d633a
+  name: Assignments - Short Paper 4
+  pageRef: /pages/assignments/assignments-short-paper-4
+  parent: 003af624-a338-5994-85f7-a038c8194f88
+  weight: 90
+- identifier: 76bd6591-210a-6aad-845c-8b5237c64598
+  name: Assignments - Topic Proposal and Outline
+  pageRef: /pages/assignments/assignments-topic-proposal-and-outline
+  parent: 003af624-a338-5994-85f7-a038c8194f88
+  weight: 100
